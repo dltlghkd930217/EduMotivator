@@ -11,7 +11,19 @@
     "build": "vite build",
     "test": "jest"
   },
-
+  "keywords": [
+    "motivator",
+    "quotes",
+    "daily-motivation",
+    "motivation",
+    "random-quotes",
+    "motivation-library",
+    "korean-motivation",
+    "wise saying",
+    "korean wise saying",
+    "korean motivator",
+    "edu-motivator"
+  ],
   "author": {
     "name": "dltlghkd932017",
     "email": "dltlghkd932017@gmail.com"
